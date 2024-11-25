@@ -1,0 +1,50 @@
+.skills-intro{
+    font-weight: 700;
+    font-size: medium;
+}
+
+/* Reset list styles */
+.skills-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  /* Style individual skill items */
+  .skill-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+  
+  /* Hover effect for skill item */
+  .skill-item:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Style skill icons */
+  .skill-icon {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Hover effect for icons */
+  .skill-icon:hover {
+    transform: rotate(10deg) scale(1.1);
+  }
+  
+  /* Style skill names */
+  .skill-name {
+    font-weight: 700;
+    transition: color 0.3s ease;
+  }
+  
+  /* Hover effect for skill names */
+  .skill-name:hover {
+    color: #007bff; /* Customize this color as per your theme */
+  }
+  

@@ -1,34 +1,34 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
-    "skills": [{
-     
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools, and platforms I have worked with:",
+    "skills": [
+        {
             "title": "Languages & Databases",
-            "items" : [
-     
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
+            "items": [
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 }
-        ]},
+            ]
+        },
         {
             "title": "Frameworks & Technologies",
-            "items" : [
+            "items": [
                 {
                     "icon": "images/skills/android_new.png",
                     "title": "Android"
@@ -39,12 +39,12 @@
                 },
                 {
                     "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "title": "Node.js"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title": "Tools & Platforms",
             "items": [
                 {
                     "icon": "images/skills/android-studio.png",
@@ -55,9 +55,23 @@
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/postman.png",
+                    "title": "Postman"
                 }
             ]
-    }
-]}
+        },
+        {
+            "title": "Design Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/figma.png",
+                    "title": "Figma"
+                },
+                {
+                    "icon": "images/skills/photoshop.png",
+                    "title": "Photoshop"
+                }
+            ]
+        }
+    ]
+}
